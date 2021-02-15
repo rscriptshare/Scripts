@@ -1,7 +1,7 @@
 ## Machine Learning, Deep Learning and Time Series Analysis Notebooks
 
 ### Objective of each project
-
+<br>
 
 #### IMDB Sentiment Analysis using RNN.ipynb
 Using LSTM to predict whether the movie review is positive or negative.
