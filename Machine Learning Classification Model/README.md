@@ -5,7 +5,7 @@
 #### **XGBoost**
 Before tuning, the testing accuracy is 90%, recall score of not purchase and purchase = 96% & 59% respectively. <br>
 After tuning, the testing accuracy is 87%, recall score of not purchase and purchase = 88% & ***80%*** respectively.
-**recall: fraction of truly relevant results returned **
+**recall: fraction of truly relevant results returned**
 
 #### **CatBoost**
 Before tuning, the testing accuracy is 90%, recall score of not purchase and purchase = 96% & 58% respectively. <br>
