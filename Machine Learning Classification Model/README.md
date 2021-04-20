@@ -3,12 +3,14 @@
 <br>
 
 #### XGBoost
-Before tuning, the testing accuracy is 90%, recall score of not purchase and purchase = 96% & 59% respectively
-After tuning , the testing accuracy is 87%, recall score of not purchase and purchase = 88% & 80% respectively
+Before tuning, the testing accuracy is 90%, recall score of not purchase and purchase = 96% & 59% respectively. <br>
+After tuning , the testing accuracy is 87%, recall score of not purchase and purchase = 88% & 80% respectively.
 
 #### CatBoost
-Before tuning, the testing accuracy is 90%, recall score of not purchase and purchase = 96% & 59% respectively
-After tuning , the testing accuracy is 87%, recall score of not purchase and purchase = 88% & <div class="text-purple mb-2">80%</div> respectively
+Before tuning, the testing accuracy is 90%, recall score of not purchase and purchase = 96% & 59% respectively. <br>
+After tuning , the testing accuracy is 87%, recall score of not purchase and purchase = 88% & <div class="text-purple mb-2">
+  .text-purple on white
+</div>
 
 #### Logistic Regression
 
