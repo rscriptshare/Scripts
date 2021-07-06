@@ -1,12 +1,8 @@
 # PySpark Project: Sparkify
 This is a Churn Prediction Project within Udacity Data Scientist Nanodegree. 
 <br>In this project, I will show how to use Pyspark for EDA, aggregation and feature engineering.
-<br> It will be involving some visualizations by seaborn during the process.
-<br> At the end I will be using Random Forest Classification and Logistic Regression model for prediction.
+<br> At the end I will be using Random Forest and Logistic Regression model for prediction.
 <br> Beside calculating the accuracy, I'll be using Precision and Recall score as the evaluation metrics as it's an imbalanced dataset. 
-<br> **Definition of Precision and Recall**
-<br> Precision: for those predicted at True, how many of them are actually True
-<br> Recall: for those which are actually True, how many of them can be correctly predicted
 
 <br> Although the goal of the project is to predict whether a customer will churn or not, I would place more weight on churn than non-churn as it's more important.
 <br> The best accuracy = 85% but with a poor recall score on predicting churn. 
